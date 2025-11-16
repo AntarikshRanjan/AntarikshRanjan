@@ -9,12 +9,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AntarikshRanjan/AntarikshRanjan/main/assets/divider.gif" width="100%"/>
 
-  <!-- Main samurai gif -->
+  <!-- Main samurai gifs -->
   <img src="https://media1.tenor.com/m/rw4hnyKNq7EAAAAd/samurai-katana.gif" width="160px" />
+  <img src="https://media1.tenor.com/m/-IJCJhbIi-YAAAAC/samurai-japan.gif" width="160px" />
 
-  <!-- 🔥 Replace THESE TWO with your own cool anime / coding gifs -->
-  <img src="https://YOUR-COOL-ANIME-GIF-1.com" width="160px" />
-  <img src="https://YOUR-COOL-ANIME-GIF-2.com" width="160px" />
+  <!-- 🔥 Replace this with another anime / coding gif if you want -->
+  <img src="https://i.imgur.com/x1K6CEn.gif" width="160px" />
 </div>
 
 <h2 align="center">⚔️ Crafting Code With Anime Precision • Engineering AI With Soul ⚡</h2>
@@ -100,20 +100,38 @@
 
 ---
 
-<div align="center">
-  
-### 🎵 Vibing To:
-*✨ Coding with aesthetic background music ✨*
+<h2 align="center">🎧 Now Playing – Seedhe Maut Vibes</h2>
 
-<!-- Optional extra gif under "vibing" -->
-<br/>
-<img src="https://i.imgur.com/x1K6CEn.gif" width="220px" />
+<div align="center">
+
+  <!-- Fake music player style card linking to a Seedhe Maut track -->
+  <table style="border-collapse: collapse; border: 1px solid #333; border-radius: 12px; background-color: #0d1117;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://img.youtube.com/vi/qVcHlaFZf6A/hqdefault.jpg" width="90px" style="border-radius: 12px;" />
+      </td>
+      <td style="padding: 10px;">
+        <b>Seedhe Maut – Khatta Flow (feat. KR$NA)</b><br/>
+        <span style="font-size: 12px;">Tap play to open on YouTube</span>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://www.youtube.com/watch?v=qVcHlaFZf6A" target="_blank">
+          <img src="https://img.shields.io/badge/▶️-PLAY-ff6b9d?style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  ### 🎵 Vibing To:
+  *✨ Coding with Seedhe Maut in the background ✨*
 
 </div>
 
 ---
 
-<!-- OUTRO TYPING (CHANGED FONT + ANIMATION BEHAVIOR) -->
+<!-- OUTRO TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=79ff97&center=true&vCenter=true&width=500&repeat=false&lines=Thanks+for+Stopping+By!;Let's+Build+Something+Awesome+🚀;Code+With+Good+Vibes+💫"/>
 </p>

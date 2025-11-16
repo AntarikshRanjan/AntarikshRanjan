@@ -1,15 +1,23 @@
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Antariksh+Ranjan!;⚡+Full-Stack+Developer+🧠;Anime+Enthusiast+🎌;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Hey%20There!%20I'm%20Antariksh%20Ranjan%20👋&fontSize=36&fontAlignY=35&color=0:ff6b9d,100:79ff97&fontColor=ffffff" />
 </p>
 
 ---
 
+<!-- HERO GIF STRIP -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/AntarikshRanjan/AntarikshRanjan/main/assets/divider.gif" width="100%"/>
-  <img src="[https://i.imgur.com/7hGcQUO.gif](https://media1.tenor.com/m/rw4hnyKNq7EAAAAd/samurai-katana.gif)" width="150px">
+
+  <!-- Main samurai gif -->
+  <img src="https://media1.tenor.com/m/rw4hnyKNq7EAAAAd/samurai-katana.gif" width="160px" />
+
+  <!-- 🔥 Replace THESE TWO with your own cool anime / coding gifs -->
+  <img src="https://YOUR-COOL-ANIME-GIF-1.com" width="160px" />
+  <img src="https://YOUR-COOL-ANIME-GIF-2.com" width="160px" />
 </div>
 
-<h2 align="center">✨ Crafting Code with Anime Magic • Building AI that Feels Alive ✨</h2>
+<h2 align="center">⚔️ Crafting Code With Anime Precision • Engineering AI With Soul ⚡</h2>
 
 <div align="center">
 
@@ -55,7 +63,7 @@
 
 ### 🎯 **VID2CODE**
 > *AI Video → React Code Generator*  
-> Built with *Next.js • GPT-4 Vision • FastAPI • Magic ✨*
+> Built with *Next.js • Vision Models • FastAPI • Magic ✨*
 
 ### 🤖 **AI Dev Tools**
 > Next-gen developer tools powered by AI  
@@ -97,14 +105,19 @@
 ### 🎵 Vibing To:
 *✨ Coding with aesthetic background music ✨*
 
+<!-- Optional extra gif under "vibing" -->
+<br/>
+<img src="https://i.imgur.com/x1K6CEn.gif" width="220px" />
+
 </div>
 
 ---
 
+<!-- OUTRO TYPING (CHANGED FONT + ANIMATION BEHAVIOR) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=4000&color=79ff97&center=true&vCenter=true&width=500&lines=Thanks+for+Stopping+By!;Let's+Build+Something+Awesome+🚀;Code+With+Good+Vibes+💫"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=79ff97&center=true&vCenter=true&width=500&repeat=false&lines=Thanks+for+Stopping+By!;Let's+Build+Something+Awesome+🚀;Code+With+Good+Vibes+💫"/>
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/x1K6CEn.gif" width="200px">
+  <b>「 Keep grinding like an anime protagonist training arc 」</b>
 </div>

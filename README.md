@@ -1,6 +1,6 @@
 <!-- NAME + TAGLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=32&duration=2800&pause=800&color=FF6B9D&center=true&vCenter=true&width=700&lines=Antariksh+Ranjan;Full+Stack+%E2%80%A2+AI+%E2%80%A2+Anime;Building+Something+KICKASS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=32&duration=2800&pause=800&color=FF6B9D&center=true&vCenter=true&width=700&lines=Antariksh+Ranjan;Full+Stack+%E2%80%A2+AI+%E2%80%A2+EXPLORATION;Building+Something+KICKASS" />
 </p>
 
 <div align="center">

@@ -1,11 +1,13 @@
-<!-- HEADER BANNER -->
+<!-- NAME + TAGLINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Hey%20There!%20I'm%20Antariksh%20Ranjan%20👋&fontSize=36&fontAlignY=35&color=0:ff6b9d,100:79ff97&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=32&duration=2800&pause=800&color=FF6B9D&center=true&vCenter=true&width=700&lines=Antariksh+Ranjan;Full+Stack+%E2%80%A2+AI+%E2%80%A2+Anime;Building+Something+KICKASS" />
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AntarikshRanjan/AntarikshRanjan/main/assets/divider.gif" width="100%"/>
+</div>
 
-<!-- HERO MAIN GIF -->
+<!-- HERO GIF (GIF 1) -->
 <p align="center">
   <img src="https://media1.tenor.com/m/rw4hnyKNq7EAAAAd/samurai-katana.gif" width="280px" />
 </p>
@@ -48,46 +50,30 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntarikshRanjan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D" />
 </div>
 
+<!-- MID GIF (GIF 2) -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/-IJCJhbIi-YAAAAC/samurai-japan.gif" width="260px" />
+</p>
+
 ---
 
 <h2 align="center">👨‍💻 Current Projects</h2>
 
 <div align="center">
 
-<!-- Nice structured project listing -->
+### 🎯 VID2CODE
+- AI **Video → React Code** generator  
+- Converts UI videos into dev-ready components  
+- **Stack:** Next.js · FastAPI · Vision Models · TypeScript  
 
-<table>
-  <tr>
-    <td align="left" width="50%">
+### 🤖 AI Dev Tools
+- AI-assisted workflows for **code, docs & debugging**  
+- Experimenting with autonomous dev agents  
+- **Stack:** TypeScript · Python · OpenAI  
 
-      <h3>🎯 VID2CODE</h3>
-      <ul>
-        <li>AI Video → React Code generator</li>
-        <li>Auto-converts UI videos into dev-ready components</li>
-        <li><b>Stack:</b> Next.js • FastAPI • Vision Models • TypeScript</li>
-      </ul>
-
-    </td>
-    <td align="center" width="50%">
-      <img src="https://media1.tenor.com/m/-IJCJhbIi-YAAAAC/samurai-japan.gif" width="260px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="50%">
-
-      <h3>🤖 AI Dev Tools</h3>
-      <ul>
-        <li>Experimenting with AI-assisted developer workflows</li>
-        <li>Autonomous agents for code, docs & debugging</li>
-        <li><b>Stack:</b> TypeScript • Python • OpenAI</li>
-      </ul>
-
-    </td>
-    <td align="center" width="50%">
-      <img src="https://i.imgur.com/x1K6CEn.gif" width="260px" />
-    </td>
-  </tr>
-</table>
+### 🚀 Anime-Inspired Apps
+- Full-stack apps with **aesthetic, anime-heavy visuals**  
+- Mixing **design, motion, and code**
 
 </div>
 
@@ -116,23 +102,17 @@
 
 ---
 
-<h2 align="center">🎧 Now Playing – Spotify</h2>
+<h2 align="center">🎧 Now Playing – Seedhe Maut</h2>
 
 <div align="center">
 
-  <!-- Spotify-style card (click opens Spotify) -->
-  <a href="https://open.spotify.com/track/5kVQwnEwnSQaVFvBBusZT6" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273c7648206dfa81857232ece48" width="90px" style="border-radius: 8px;" />
-  </a>
+  <p><sub>On loop while shipping code.</sub></p>
 
-  <br/><br/>
-
-  <b>Seedhe Maut – (Your Fav Track)</b>  
-  <sub>Click to open on Spotify</sub>
-  <br/><br/>
-
-  <a href="https://open.spotify.com/track/5kVQwnEwnSQaVFvBBusZT6" target="_blank">
-    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <!-- Clean single Spotify button -->
+  
+  <a href="https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo" target="_blank">
+    <img src="https://media.tenor.com/TsmIbA31bUMAAAAm/music-sounds.webp" /><br>
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 
 </div>
@@ -141,18 +121,18 @@
 
 <div align="center">
   
-### 🎵 Vibing To:
-*✨ Coding with Seedhe Maut and anime visuals ✨*
-
-</div>
+<h3>🎵 Vibing To:</h3>
+<!-- BOTTOM GIF (GIF 3) -->
+<p align="center">
+  <img src="https://media.tenor.com/7RJvfTR5oE8AAAAm/jett-valorant.webp" width="260px" />
+</p>
 
 ---
 
-<!-- OUTRO TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1200&color=79ff97&center=true&vCenter=true&width=500&repeat=false&lines=Thanks+for+Stopping+By!;Let's+Build+Something+Awesome+🚀;Code+With+Good+Vibes+💫"/>
+  <code style="font-size: 18px;">Code With Good Vibes ⚡</code>
 </p>
 
-<div align="center">
-  <b>「 Keep grinding like an anime protagonist training arc 」</b>
-</div>
+<p align="center">
+  ［ Keep grinding like an anime protagonist training arc ］
+</p>

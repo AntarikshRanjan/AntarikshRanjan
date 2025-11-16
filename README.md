@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AntarikshRanjan/AntarikshRanjan/main/assets/divider.gif" width="100%"/>
-  <img src="https://i.imgur.com/7hGcQUO.gif" width="150px">
+  <img src="[https://i.imgur.com/7hGcQUO.gif](https://media1.tenor.com/m/rw4hnyKNq7EAAAAd/samurai-katana.gif)" width="100%">
 </div>
 
 <h2 align="center">✨ Crafting Code with Anime Magic • Building AI that Feels Alive ✨</h2>

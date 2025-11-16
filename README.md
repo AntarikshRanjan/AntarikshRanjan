@@ -5,17 +5,10 @@
 
 ---
 
-<!-- HERO GIF STRIP -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AntarikshRanjan/AntarikshRanjan/main/assets/divider.gif" width="100%"/>
-
-  <!-- Main samurai gifs -->
-  <img src="https://media1.tenor.com/m/rw4hnyKNq7EAAAAd/samurai-katana.gif" width="160px" />
-  <img src="https://media1.tenor.com/m/-IJCJhbIi-YAAAAC/samurai-japan.gif" width="160px" />
-
-  <!-- 🔥 Replace this with another anime / coding gif if you want -->
-  <img src="https://i.imgur.com/x1K6CEn.gif" width="160px" />
-</div>
+<!-- HERO MAIN GIF -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/rw4hnyKNq7EAAAAd/samurai-katana.gif" width="280px" />
+</p>
 
 <h2 align="center">⚔️ Crafting Code With Anime Precision • Engineering AI With Soul ⚡</h2>
 
@@ -61,17 +54,40 @@
 
 <div align="center">
 
-### 🎯 **VID2CODE**
-> *AI Video → React Code Generator*  
-> Built with *Next.js • Vision Models • FastAPI • Magic ✨*
+<!-- Nice structured project listing -->
 
-### 🤖 **AI Dev Tools**
-> Next-gen developer tools powered by AI  
-> *TypeScript • Python • OpenAI*
+<table>
+  <tr>
+    <td align="left" width="50%">
 
-### 🚀 **Anime-Inspired Apps**
-> Building apps with that aesthetic vibe  
-> *Full-stack • Creative • Fun*
+      <h3>🎯 VID2CODE</h3>
+      <ul>
+        <li>AI Video → React Code generator</li>
+        <li>Auto-converts UI videos into dev-ready components</li>
+        <li><b>Stack:</b> Next.js • FastAPI • Vision Models • TypeScript</li>
+      </ul>
+
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media1.tenor.com/m/-IJCJhbIi-YAAAAC/samurai-japan.gif" width="260px" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+
+      <h3>🤖 AI Dev Tools</h3>
+      <ul>
+        <li>Experimenting with AI-assisted developer workflows</li>
+        <li>Autonomous agents for code, docs & debugging</li>
+        <li><b>Stack:</b> TypeScript • Python • OpenAI</li>
+      </ul>
+
+    </td>
+    <td align="center" width="50%">
+      <img src="https://i.imgur.com/x1K6CEn.gif" width="260px" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -84,7 +100,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/Antariksh_Ranjn">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:antarikshranjan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -100,32 +116,33 @@
 
 ---
 
-<h2 align="center">🎧 Now Playing – Seedhe Maut Vibes</h2>
+<h2 align="center">🎧 Now Playing – Spotify</h2>
 
 <div align="center">
 
-  <!-- Fake music player style card linking to a Seedhe Maut track -->
-  <table style="border-collapse: collapse; border: 1px solid #333; border-radius: 12px; background-color: #0d1117;">
-    <tr>
-      <td style="padding: 10px;">
-        <img src="https://img.youtube.com/vi/qVcHlaFZf6A/hqdefault.jpg" width="90px" style="border-radius: 12px;" />
-      </td>
-      <td style="padding: 10px;">
-        <b>Seedhe Maut – Khatta Flow (feat. KR$NA)</b><br/>
-        <span style="font-size: 12px;">Tap play to open on YouTube</span>
-      </td>
-      <td style="padding: 10px;">
-        <a href="https://www.youtube.com/watch?v=qVcHlaFZf6A" target="_blank">
-          <img src="https://img.shields.io/badge/▶️-PLAY-ff6b9d?style=for-the-badge" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- Spotify-style card (click opens Spotify) -->
+  <a href="https://open.spotify.com/track/5kVQwnEwnSQaVFvBBusZT6" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b273c7648206dfa81857232ece48" width="90px" style="border-radius: 8px;" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
-  ### 🎵 Vibing To:
-  *✨ Coding with Seedhe Maut in the background ✨*
+  <b>Seedhe Maut – (Your Fav Track)</b>  
+  <sub>Click to open on Spotify</sub>
+  <br/><br/>
+
+  <a href="https://open.spotify.com/track/5kVQwnEwnSQaVFvBBusZT6" target="_blank">
+    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎵 Vibing To:
+*✨ Coding with Seedhe Maut and anime visuals ✨*
 
 </div>
 

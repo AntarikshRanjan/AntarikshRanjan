@@ -66,18 +66,23 @@
 
 ---
 
-<h2 align="center">📬 Connect with Me</h2>
+<h2 align="center">📬 Connect With Me</h2>
 
 <div align="center">
-  <a href="www.linkedin.com/in/antariksh-ranjan-8a405a2b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://twitter.com/your-handle](https://x.com/Antariksh_Ranjn)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:antarikshranjan@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
+  <a href="https://www.linkedin.com/in/antariksh-ranjan-8a405a2b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Antariksh_Ranjn">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:antarikshranjan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-<h2 align="center">🐍 My Contribution Graph</h2>
+<h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntarikshRanjan&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true" width="95%"/>
 </div>

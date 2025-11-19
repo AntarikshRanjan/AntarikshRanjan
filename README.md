@@ -12,7 +12,7 @@
   <img src="https://media1.tenor.com/m/rw4hnyKNq7EAAAAd/samurai-katana.gif" width="280px" />
 </p>
 
-<h2 align="center">⚔️ Crafting Code With Anime Precision • Engineering AI With Soul ⚡</h2>
+<h2 align="center">⚔️ Crafting With Precision • Engineering AI With Soul ⚡</h2>
 
 <div align="center">
 

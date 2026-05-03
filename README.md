@@ -16,12 +16,12 @@
 
 <div align="center">
 
-💼 Working on **VID2CODE – AI Video → Code Platform**  
-🧠 Learning **Advanced Computer Vision & AI Agents**  
-🌍 Collaborating on **AI-Powered Open Source Tools**  
-🚀 Ask me about **React, Next.js, Python, or anime recommendations!**  
-☕ Fun fact: **I debug code while binge-watching anime**  
-🎮 **Gamer • Weeb • Code Wizard**
+ Working on **VID2CODE – AI Video → Code Platform**  
+ Learning **Advanced Computer Vision & AI Agents**  
+ Collaborating on **AI-Powered Open Source Tools**  
+ Ask me about **React, Next.js, Python, or anime recommendations!**  
+ Fun fact: **I debug code while binge-watching anime**  
+ **Gamer • Weeb • Code Wizard**
 
 </div>
 
@@ -57,21 +57,21 @@
 
 ---
 
-<h2 align="center">👨‍💻 Current Projects</h2>
+<h2 align="center">Current Projects</h2>
 
 <div align="center">
 
-### 🎯 VID2CODE
+### V0DEV
 - AI **Video → React Code** generator  
 - Converts UI videos into dev-ready components  
 - **Stack:** Next.js · FastAPI · Vision Models · TypeScript  
 
-### 🤖 AI Dev Tools
+### AI Dev Tools
 - AI-assisted workflows for **code, docs & debugging**  
 - Experimenting with autonomous dev agents  
 - **Stack:** TypeScript · Python · OpenAI  
 
-### 🚀 Anime-Inspired Apps
+### Anime-Inspired Apps
 - Full-stack apps with **aesthetic, anime-heavy visuals**  
 - Mixing **design, motion, and code**
 
@@ -95,7 +95,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">Contribution Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntarikshRanjan&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=FF6B9D&line=79ff97" width="95%"/>
 </div>
